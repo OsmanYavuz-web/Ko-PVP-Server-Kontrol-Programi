@@ -1,0 +1,32 @@
+
+[BILGI][2014.07.28 14:19:47] programdan çıkış yapıldı.
+[BILGI][2014.07.28 14:19:47]Log-2014.07.28 14.19.15.txt isimli .txt dosyasına loglar kaydedildi.
+
+[BILGI][2014.07.28 14:19:47] programdan çıkış yapıldı.
+[HATA][2014.07.28 14:19:45] [] konumu bulunamadı!
+[HATA][2014.07.28 14:19:45] [] konumu bulunamadı!
+[HATA][2014.07.28 14:19:45] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:19:40] [] konumu bulunamadı!
+[HATA][2014.07.28 14:19:40] [] konumu bulunamadı!
+[HATA][2014.07.28 14:19:40] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:19:35] [] konumu bulunamadı!
+[HATA][2014.07.28 14:19:35] [] konumu bulunamadı!
+[HATA][2014.07.28 14:19:35] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:19:30] [] konumu bulunamadı!
+[HATA][2014.07.28 14:19:30] [] konumu bulunamadı!
+[HATA][2014.07.28 14:19:30] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:19:30] [] konumu bulunamadı!
+[HATA][2014.07.28 14:19:30] [] konumu bulunamadı!
+[HATA][2014.07.28 14:19:30] [] ChatLog konumu bulunamadı!
+[HATA][] [] konumu bulunamadı!
+[HATA][] [] konumu bulunamadı!
+[HATA][] [] ChatLog konumu bulunamadı!
+
+[AKTIF][] GENEL AYARLAR YÜKLENDİ..
+[AKTIF][] Güncellemeleri otomatik tara.
+[AKTIF][] Log kayıtları tut.
+[AKTIF][] Programların zaman aşım süresi 1 sn olarak belirlendi.
+[BILGI][] GENEL AYARLARDAN AKTİF OLANLAR YÜKLENİYOR...
+[AKTIF][] Mevcut sürüm bilgisi : 0.1
+[BILGI][] 'Ko PVP Server Kontrol Programı | Osman Yavuz' PROGRAM AKTİF. 
+[BILGI][] Program açılıyor...

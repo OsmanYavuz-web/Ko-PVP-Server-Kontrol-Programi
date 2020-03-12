@@ -1,0 +1,44 @@
+
+[BILGI][2014.07.28 14:25:11] programdan çıkış yapıldı.
+[BILGI][2014.07.28 14:25:11]Log-2014.07.28 14.24.20.txt isimli .txt dosyasına loglar kaydedildi.
+
+[BILGI][2014.07.28 14:25:11] programdan çıkış yapıldı.
+[HATA][2014.07.28 14:25:10] [] DeathLog konumu bulunamadı!
+[HATA][2014.07.28 14:25:10] [] ItemLog konumu bulunamadı!
+[HATA][2014.07.28 14:25:10] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:25:05] [] DeathLog konumu bulunamadı!
+[HATA][2014.07.28 14:25:05] [] ItemLog konumu bulunamadı!
+[HATA][2014.07.28 14:25:05] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:25:00] [] DeathLog konumu bulunamadı!
+[HATA][2014.07.28 14:25:00] [] ItemLog konumu bulunamadı!
+[HATA][2014.07.28 14:25:00] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:24:55] [] DeathLog konumu bulunamadı!
+[HATA][2014.07.28 14:24:55] [] ItemLog konumu bulunamadı!
+[HATA][2014.07.28 14:24:55] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:24:50] [] DeathLog konumu bulunamadı!
+[HATA][2014.07.28 14:24:50] [] ItemLog konumu bulunamadı!
+[HATA][2014.07.28 14:24:50] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:24:46] [] DeathLog konumu bulunamadı!
+[HATA][2014.07.28 14:24:46] [] ItemLog konumu bulunamadı!
+[HATA][2014.07.28 14:24:46] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:24:40] [] DeathLog konumu bulunamadı!
+[HATA][2014.07.28 14:24:40] [] ItemLog konumu bulunamadı!
+[HATA][2014.07.28 14:24:40] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:24:35] [] DeathLog konumu bulunamadı!
+[HATA][2014.07.28 14:24:35] [] ItemLog konumu bulunamadı!
+[HATA][2014.07.28 14:24:35] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:24:35] [] DeathLog konumu bulunamadı!
+[HATA][2014.07.28 14:24:35] [] ItemLog konumu bulunamadı!
+[HATA][2014.07.28 14:24:35] [] ChatLog konumu bulunamadı!
+[HATA][] [] DeathLog konumu bulunamadı!
+[HATA][] [] ItemLog konumu bulunamadı!
+[HATA][] [] ChatLog konumu bulunamadı!
+
+[AKTIF][] GENEL AYARLAR YÜKLENDİ..
+[AKTIF][] Güncellemeleri otomatik tara.
+[AKTIF][] Log kayıtları tut.
+[AKTIF][] Programların zaman aşım süresi 1 sn olarak belirlendi.
+[BILGI][] GENEL AYARLARDAN AKTİF OLANLAR YÜKLENİYOR...
+[AKTIF][] Mevcut sürüm bilgisi : 0.1
+[BILGI][] 'Ko PVP Server Kontrol Programı | Osman Yavuz' PROGRAM AKTİF. 
+[BILGI][] Program açılıyor...

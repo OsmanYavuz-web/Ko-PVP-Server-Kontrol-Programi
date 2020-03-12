@@ -1,0 +1,34 @@
+
+[BILGI][2014.07.18 17:31:57] programdan çıkış yapıldı.
+[BILGI][2014.07.18 17:31:57]Log-2014.07.18 17.31.33.txt isimli .txt dosyasına loglar kaydedildi.
+
+[BILGI][2014.07.18 17:31:57] programdan çıkış yapıldı.
+[HATA][2014.07.18 17:31:53] Aujard (Aujard.exe) çalışmıyor.
+[HATA][2014.07.18 17:31:53] Ebenezer (Ebenezer.exe) çalışmıyor.
+[HATA][2014.07.18 17:31:53] AiServer (AiServer.exe) çalışmıyor.
+[HATA][2014.07.18 17:31:53] LoginServer (Version_Manager.exe) çalışmıyor.
+[HATA][2014.07.18 17:31:48] Aujard (Aujard.exe) çalışmıyor.
+[HATA][2014.07.18 17:31:48] Ebenezer (Ebenezer.exe) çalışmıyor.
+[HATA][2014.07.18 17:31:48] AiServer (AiServer.exe) çalışmıyor.
+[HATA][2014.07.18 17:31:48] LoginServer (Version_Manager.exe) çalışmıyor.
+[HATA][2014.07.18 17:31:43] Aujard (Aujard.exe) çalışmıyor.
+[HATA][2014.07.18 17:31:43] Ebenezer (Ebenezer.exe) çalışmıyor.
+[HATA][2014.07.18 17:31:43] AiServer (AiServer.exe) çalışmıyor.
+[HATA][2014.07.18 17:31:43] LoginServer (Version_Manager.exe) çalışmıyor.
+[HATA][2014.07.18 17:31:38] Aujard (Aujard.exe) çalışmıyor.
+[HATA][2014.07.18 17:31:38] Ebenezer (Ebenezer.exe) çalışmıyor.
+[HATA][2014.07.18 17:31:38] AiServer (AiServer.exe) çalışmıyor.
+[HATA][2014.07.18 17:31:38] LoginServer (Version_Manager.exe) çalışmıyor.
+[HATA][] Aujard (Aujard.exe) çalışmıyor.
+[HATA][] Ebenezer (Ebenezer.exe) çalışmıyor.
+[HATA][] AiServer (AiServer.exe) çalışmıyor.
+[HATA][] LoginServer (Version_Manager.exe) çalışmıyor.
+
+[AKTIF][] GENEL AYARLAR YÜKLENDİ..
+[AKTIF][] Güncellemeleri otomatik tara.
+[AKTIF][] Log kayıtları tut.
+[AKTIF][] Programların zaman aşım süresi 1 sn olarak belirlendi.
+[BILGI][] GENEL AYARLARDAN AKTİF OLANLAR YÜKLENİYOR...
+[AKTIF][] Mevcut sürüm bilgisi : 0.1
+[BILGI][] 'Ko PVP Server Kontrol Programı | Osman Yavuz' PROGRAM AKTİF. 
+[BILGI][] Program açılıyor...

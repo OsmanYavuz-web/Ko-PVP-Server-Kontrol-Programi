@@ -1,0 +1,26 @@
+
+[BILGI][2014.07.28 14:31:04] programdan çıkış yapıldı.
+[BILGI][2014.07.28 14:31:04]Log-2014.07.28 14.30.42.txt isimli .txt dosyasına loglar kaydedildi.
+
+[BILGI][2014.07.28 14:31:04] programdan çıkış yapıldı.
+[HATA][2014.07.28 14:31:02] [] DeathLog konumu bulunamadı!
+[HATA][2014.07.28 14:31:02] [] ItemLog konumu bulunamadı!
+[HATA][2014.07.28 14:31:02] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:30:57] [] DeathLog konumu bulunamadı!
+[HATA][2014.07.28 14:30:57] [] ItemLog konumu bulunamadı!
+[HATA][2014.07.28 14:30:57] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:30:57] [] DeathLog konumu bulunamadı!
+[HATA][2014.07.28 14:30:57] [] ItemLog konumu bulunamadı!
+[HATA][2014.07.28 14:30:57] [] ChatLog konumu bulunamadı!
+[HATA][] [] DeathLog konumu bulunamadı!
+[HATA][] [] ItemLog konumu bulunamadı!
+[HATA][] [] ChatLog konumu bulunamadı!
+
+[AKTIF][] GENEL AYARLAR YÜKLENDİ..
+[AKTIF][] Güncellemeleri otomatik tara.
+[AKTIF][] Log kayıtları tut.
+[AKTIF][] Programların zaman aşım süresi 1 sn olarak belirlendi.
+[BILGI][] GENEL AYARLARDAN AKTİF OLANLAR YÜKLENİYOR...
+[AKTIF][] Mevcut sürüm bilgisi : 0.1
+[BILGI][] 'Ko PVP Server Kontrol Programı | Osman Yavuz' PROGRAM AKTİF. 
+[BILGI][] Program açılıyor...

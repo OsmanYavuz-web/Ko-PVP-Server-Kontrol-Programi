@@ -1,0 +1,14 @@
+
+[BILGI][2014.07.26 00:32:53] programdan çıkış yapıldı.
+[BILGI][2014.07.26 00:32:53]Log-2014.07.26 00.32.16.txt isimli .txt dosyasına loglar kaydedildi.
+
+[BILGI][2014.07.26 00:32:53] programdan çıkış yapıldı.
+
+[AKTIF][] GENEL AYARLAR YÜKLENDİ..
+[AKTIF][] Güncellemeleri otomatik tara.
+[AKTIF][] Log kayıtları tut.
+[AKTIF][] Programların zaman aşım süresi 1 sn olarak belirlendi.
+[BILGI][] GENEL AYARLARDAN AKTİF OLANLAR YÜKLENİYOR...
+[AKTIF][] Mevcut sürüm bilgisi : 0.1
+[BILGI][] 'Ko PVP Server Kontrol Programı | Osman Yavuz' PROGRAM AKTİF. 
+[BILGI][] Program açılıyor...

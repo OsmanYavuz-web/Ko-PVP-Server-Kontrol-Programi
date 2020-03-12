@@ -1,0 +1,20 @@
+C:\Users\user\Desktop\Ko PVP Server Kontrol Programı Source\Ko PVP Server Kontrol Programi\bin\Debug\Ko PVP Server Kontrol Programi.exe.config
+C:\Users\user\Desktop\Ko PVP Server Kontrol Programı Source\Ko PVP Server Kontrol Programi\bin\Debug\Ko PVP Server Kontrol Programi.exe
+C:\Users\user\Desktop\Ko PVP Server Kontrol Programı Source\Ko PVP Server Kontrol Programi\bin\Debug\Ko PVP Server Kontrol Programi.pdb
+C:\Users\user\Desktop\Ko PVP Server Kontrol Programı Source\Ko PVP Server Kontrol Programi\obj\Debug\Ko PVP Server Kontrol Programi.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Ko PVP Server Kontrol Programı Source\Ko PVP Server Kontrol Programi\obj\Debug\Ko_PVP_Server_Kontrol_Programi.frm_DosyaYol.resources
+C:\Users\user\Desktop\Ko PVP Server Kontrol Programı Source\Ko PVP Server Kontrol Programi\obj\Debug\Ko_PVP_Server_Kontrol_Programi.Properties.Resources.resources
+C:\Users\user\Desktop\Ko PVP Server Kontrol Programı Source\Ko PVP Server Kontrol Programi\obj\Debug\Ko PVP Server Kontrol Programi.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Ko PVP Server Kontrol Programı Source\Ko PVP Server Kontrol Programi\obj\Debug\Ko PVP Server Kontrol Programi.exe
+C:\Users\user\Desktop\Ko PVP Server Kontrol Programı Source\Ko PVP Server Kontrol Programi\obj\Debug\Ko PVP Server Kontrol Programi.pdb
+C:\Users\DangerOusMaN32\Desktop\Ko PVP Server Kontrol Programı Source\Ko PVP Server Kontrol Programi\bin\Debug\Ko PVP Server Kontrol Programi.exe.config
+C:\Users\DangerOusMaN32\Desktop\Ko PVP Server Kontrol Programı Source\Ko PVP Server Kontrol Programi\obj\Debug\Ko PVP Server Kontrol Programi.exe
+C:\Users\DangerOusMaN32\Desktop\Ko PVP Server Kontrol Programı Source\Ko PVP Server Kontrol Programi\obj\Debug\Ko PVP Server Kontrol Programi.pdb
+C:\Users\DangerOusMaN32\Desktop\Ko PVP Server Kontrol Programı Source\Ko PVP Server Kontrol Programi\bin\Debug\Ko PVP Server Kontrol Programi.exe
+C:\Users\DangerOusMaN32\Desktop\Ko PVP Server Kontrol Programı Source\Ko PVP Server Kontrol Programi\bin\Debug\Ko PVP Server Kontrol Programi.pdb
+C:\Users\DangerOusMaN32\Desktop\Ko PVP Server Kontrol Programı Source\Ko PVP Server Kontrol Programi\obj\Debug\Ko PVP Server Kontrol Programi.csprojResolveAssemblyReference.cache
+C:\Users\DangerOusMaN32\Desktop\Ko PVP Server Kontrol Programı Source\Ko PVP Server Kontrol Programi\obj\Debug\Ko_PVP_Server_Kontrol_Programi.frm_DosyaYol.resources
+C:\Users\DangerOusMaN32\Desktop\Ko PVP Server Kontrol Programı Source\Ko PVP Server Kontrol Programi\obj\Debug\Ko_PVP_Server_Kontrol_Programi.Properties.Resources.resources
+C:\Users\DangerOusMaN32\Desktop\Ko PVP Server Kontrol Programı Source\Ko PVP Server Kontrol Programi\obj\Debug\Ko PVP Server Kontrol Programi.csproj.GenerateResource.Cache
+C:\Users\DangerOusMaN32\Desktop\Ko PVP Server Kontrol Programı Source\Ko PVP Server Kontrol Programi\obj\Debug\Ko_PVP_Server_Kontrol_Programi.Form1.resources
+C:\Users\DangerOusMaN32\Desktop\Ko PVP Server Kontrol Programı Source\Ko PVP Server Kontrol Programi\obj\Debug\Ko_PVP_Server_Kontrol_Programi.Form2.resources

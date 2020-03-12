@@ -1,0 +1,122 @@
+
+[BILGI][2014.07.28 13:57:48] programdan çıkış yapıldı.
+[BILGI][2014.07.28 13:57:48]Log-2014.07.28 13.54.41.txt isimli .txt dosyasına loglar kaydedildi.
+
+[BILGI][2014.07.28 13:57:48] programdan çıkış yapıldı.
+[HATA][2014.07.28 13:57:46] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:46] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:46] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:41] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:41] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:41] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:36] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:36] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:36] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:31] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:31] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:31] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:26] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:26] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:26] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:21] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:21] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:21] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:16] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:16] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:16] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:11] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:11] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:11] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:06] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:06] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:06] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:01] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:01] [] konumu bulunamadı!
+[HATA][2014.07.28 13:57:01] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:56] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:56] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:56] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:51] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:51] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:51] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:46] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:46] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:46] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:41] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:41] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:41] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:36] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:36] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:36] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:31] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:31] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:31] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:26] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:26] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:26] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:21] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:21] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:21] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:16] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:16] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:16] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:11] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:11] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:11] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:06] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:06] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:06] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:01] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:01] [] konumu bulunamadı!
+[HATA][2014.07.28 13:56:01] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:56] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:56] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:56] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:51] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:51] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:51] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:46] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:46] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:46] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:41] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:41] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:41] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:36] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:36] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:36] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:31] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:31] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:31] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:26] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:26] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:26] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:21] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:21] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:21] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:16] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:16] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:16] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:11] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:11] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:11] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:06] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:06] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:06] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:01] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:01] [] konumu bulunamadı!
+[HATA][2014.07.28 13:55:01] [] konumu bulunamadı!
+[HATA][2014.07.28 13:54:59] [] konumu bulunamadı!
+[HATA][2014.07.28 13:54:59] [] konumu bulunamadı!
+[HATA][2014.07.28 13:54:59] [] konumu bulunamadı!
+[HATA][] [] konumu bulunamadı!
+[HATA][] [] konumu bulunamadı!
+[HATA][] [] konumu bulunamadı!
+
+[AKTIF][] GENEL AYARLAR YÜKLENDİ..
+[AKTIF][] Güncellemeleri otomatik tara.
+[AKTIF][] Log kayıtları tut.
+[AKTIF][] Programların zaman aşım süresi 1 sn olarak belirlendi.
+[BILGI][] GENEL AYARLARDAN AKTİF OLANLAR YÜKLENİYOR...
+[AKTIF][] Mevcut sürüm bilgisi : 0.1
+[BILGI][] 'Ko PVP Server Kontrol Programı | Osman Yavuz' PROGRAM AKTİF. 
+[BILGI][] Program açılıyor...

@@ -1,0 +1,89 @@
+
+[BILGI][2014.07.28 14:09:43] programdan çıkış yapıldı.
+[BILGI][2014.07.28 14:09:43]Log-2014.07.28 14.07.33.txt isimli .txt dosyasına loglar kaydedildi.
+
+[BILGI][2014.07.28 14:09:43] programdan çıkış yapıldı.
+[HATA][2014.07.28 14:09:43] [] konumu bulunamadı!
+[HATA][2014.07.28 14:09:43] [] konumu bulunamadı!
+[HATA][2014.07.28 14:09:43] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:09:38] [] konumu bulunamadı!
+[HATA][2014.07.28 14:09:38] [] konumu bulunamadı!
+[HATA][2014.07.28 14:09:38] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:09:33] [] konumu bulunamadı!
+[HATA][2014.07.28 14:09:33] [] konumu bulunamadı!
+[HATA][2014.07.28 14:09:33] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:09:28] [] konumu bulunamadı!
+[HATA][2014.07.28 14:09:28] [] konumu bulunamadı!
+[HATA][2014.07.28 14:09:28] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:09:24] [] konumu bulunamadı!
+[HATA][2014.07.28 14:09:24] [] konumu bulunamadı!
+[HATA][2014.07.28 14:09:24] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:09:18] [] konumu bulunamadı!
+[HATA][2014.07.28 14:09:18] [] konumu bulunamadı!
+[HATA][2014.07.28 14:09:18] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:09:13] [] konumu bulunamadı!
+[HATA][2014.07.28 14:09:13] [] konumu bulunamadı!
+[HATA][2014.07.28 14:09:13] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:09:08] [] konumu bulunamadı!
+[HATA][2014.07.28 14:09:08] [] konumu bulunamadı!
+[HATA][2014.07.28 14:09:08] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:09:03] [] konumu bulunamadı!
+[HATA][2014.07.28 14:09:03] [] konumu bulunamadı!
+[HATA][2014.07.28 14:09:03] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:08:58] [] konumu bulunamadı!
+[HATA][2014.07.28 14:08:58] [] konumu bulunamadı!
+[HATA][2014.07.28 14:08:58] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:08:53] [] konumu bulunamadı!
+[HATA][2014.07.28 14:08:53] [] konumu bulunamadı!
+[HATA][2014.07.28 14:08:53] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:08:48] [] konumu bulunamadı!
+[HATA][2014.07.28 14:08:48] [] konumu bulunamadı!
+[HATA][2014.07.28 14:08:48] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:08:43] [] konumu bulunamadı!
+[HATA][2014.07.28 14:08:43] [] konumu bulunamadı!
+[HATA][2014.07.28 14:08:43] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:08:38] [] konumu bulunamadı!
+[HATA][2014.07.28 14:08:38] [] konumu bulunamadı!
+[HATA][2014.07.28 14:08:38] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:08:33] [] konumu bulunamadı!
+[HATA][2014.07.28 14:08:33] [] konumu bulunamadı!
+[HATA][2014.07.28 14:08:33] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:08:28] [] konumu bulunamadı!
+[HATA][2014.07.28 14:08:28] [] konumu bulunamadı!
+[HATA][2014.07.28 14:08:28] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:08:24] [] konumu bulunamadı!
+[HATA][2014.07.28 14:08:24] [] konumu bulunamadı!
+[HATA][2014.07.28 14:08:24] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:08:18] [] konumu bulunamadı!
+[HATA][2014.07.28 14:08:18] [] konumu bulunamadı!
+[HATA][2014.07.28 14:08:18] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:08:13] [] konumu bulunamadı!
+[HATA][2014.07.28 14:08:13] [] konumu bulunamadı!
+[HATA][2014.07.28 14:08:13] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:08:08] [] konumu bulunamadı!
+[HATA][2014.07.28 14:08:08] [] konumu bulunamadı!
+[HATA][2014.07.28 14:08:08] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:08:03] [] konumu bulunamadı!
+[HATA][2014.07.28 14:08:03] [] konumu bulunamadı!
+[HATA][2014.07.28 14:08:03] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:07:58] [] konumu bulunamadı!
+[HATA][2014.07.28 14:07:58] [] konumu bulunamadı!
+[HATA][2014.07.28 14:07:58] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:07:53] [] konumu bulunamadı!
+[HATA][2014.07.28 14:07:53] [] konumu bulunamadı!
+[HATA][2014.07.28 14:07:53] [] ChatLog konumu bulunamadı!
+[HATA][2014.07.28 14:07:48] [] konumu bulunamadı!
+[HATA][2014.07.28 14:07:48] [] konumu bulunamadı!
+[HATA][2014.07.28 14:07:48] [] ChatLog konumu bulunamadı!
+[HATA][] [] konumu bulunamadı!
+[HATA][] [] konumu bulunamadı!
+[HATA][] [] ChatLog konumu bulunamadı!
+
+[AKTIF][] GENEL AYARLAR YÜKLENDİ..
+[AKTIF][] Güncellemeleri otomatik tara.
+[AKTIF][] Log kayıtları tut.
+[AKTIF][] Programların zaman aşım süresi 1 sn olarak belirlendi.
+[BILGI][] GENEL AYARLARDAN AKTİF OLANLAR YÜKLENİYOR...
+[AKTIF][] Mevcut sürüm bilgisi : 0.1
+[BILGI][] 'Ko PVP Server Kontrol Programı | Osman Yavuz' PROGRAM AKTİF. 
+[BILGI][] Program açılıyor...
